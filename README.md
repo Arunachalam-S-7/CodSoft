@@ -1,4 +1,4 @@
-Welcome to our Python GUI Projects repository! Here, you'll find three exciting projects built using Python GUI:
+Welcome to my Python GUI Projects repository! Here, you'll find three exciting projects built using Python GUI:
 
 1. Todolist using Python GUI
 Stay organized and manage your tasks efficiently with our Todolist application. Add, delete, and track your tasks with ease through a simple and intuitive graphical user interface.
